@@ -1,7 +1,7 @@
 # Hi! <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Hand%20gestures/Eyes.png" alt="Eyes" width="35" height="35" />
 
 # <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Activities/Sparkles.png" alt="Sparkles" width="30" height="30" /> About Me:
-🧑‍🎓I'm currently in B.Tech CSE Honours Course in GLA University.<br>🎓I've interest in coding, web3 & blockchain technology and Ethical Hacking.<br>⚡Currently I am learning Full Stack Development.<br>🌱My future plan is to learn complete AI and Its Development by completing proficiency in Python and its Libraries.
+🧑‍🎓I'm currently in B.Tech CSE Honours Course in GLA University.<br>🎓I've interest in coding, web3 & blockchain technology and Ethical Hacking.<br>⚡Currently I am learning Full Stack Development.<br>🌱My future plan is to learn AI and Its Development by completing proficiency in Python and its Libraries.
 
 
 ## <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Travel%20and%20places/Globe%20with%20Meridians.png" alt="Globe with Meridians" width="30" height="30" /> Socials:
