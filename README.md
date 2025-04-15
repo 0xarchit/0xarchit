@@ -46,4 +46,17 @@
 ### <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Symbols/Top%20Arrow.png" alt="Top Arrow" width="30" height="30" /> Top Contributed Repo
 ![](https://github-contributor-stats.vercel.app/api?username=0xarchit&limit=5&theme=dark&combine_all_yearly_contributions=true)
 
+###
+
+<br clear="both">
+
+<div align="center">
+  <img src="https://profile-counter.glitch.me/0xarchit/count.svg?"  />
+</div>
+
+###
+
+<img src="https://raw.githubusercontent.com/0xarchit/0xarchit/output/snake.svg" alt="Snake animation" />
+
+###
 ---
