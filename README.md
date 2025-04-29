@@ -56,7 +56,7 @@
 
 ###
 
-<img src="https://raw.githubusercontent.com/0xarchit/0xarchit/output/snake.svg" alt="Snake animation" />
+<img src="https://raw.githubusercontent.com/0xarchit/0xarchit/output/pacman-contribution-graph-dark.svg" alt="Snake animation" />
 
 ###
 ---
