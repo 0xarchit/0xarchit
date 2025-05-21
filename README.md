@@ -31,7 +31,7 @@
 ![Notion](https://img.shields.io/badge/Notion-%23000000.svg?style=flat&logo=notion&logoColor=white) ![Discord](https://img.shields.io/badge/Discord-%23000000.svg?style=flat&logo=discord&logoColor=white) 
 
 # <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Objects/Bar%20Chart.png" alt="Bar Chart" width="30" height="30" /> GitHub Stats:
-![](https://github-readme-stats.vercel.app/api?username=0xarchit&theme=dark&hide_border=false&include_all_commits=true&count_private=true)<br/>
+![](https://github-readme-stats.vercel.app/api?username=0xarchit&theme=dark&hide_border=false&include_all_commits=true&count_private=true/)<br/>
 
 ![](https://github-readme-streak-stats.herokuapp.com/?user=0xarchit&theme=dark&hide_border=false)<br/>
 
