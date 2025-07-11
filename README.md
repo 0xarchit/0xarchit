@@ -53,7 +53,7 @@
 <br clear="both">
 
 <div align="center">
-  <img src="https://view.0xarc.workers.dev/github-profile-views"  />
+  <img src="https://view.0xarc.workers.dev/github-profile-views.svg"  />
 </div>
 
 ###
