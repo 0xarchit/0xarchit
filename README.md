@@ -53,7 +53,7 @@
 <br clear="both">
 
 <div align="center">
-  <img src="https://profile-counter.glitch.me/0xarchit/count.svg?"  />
+  <img src="https://view.0xarc.workers.dev/github-profile-views"  />
 </div>
 
 ###
