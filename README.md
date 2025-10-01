@@ -3,6 +3,11 @@
 # <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Activities/Sparkles.png" alt="Sparkles" width="30" height="30" /> About Me:
 🧑‍🎓I'm currently in B.Tech CSE Honors Course in GLA University.<br>🎓I've interest in coding, web3 & blockchain technology and Ethical Hacking.<br>⚡Currently I am learning Full Stack Development.<br>🌱My future plan is to learn AI and Its Development by completing proficiency in Python and its Libraries.
 
+<div align="center">
+  <img src="https://view.0xarc.workers.dev/github-profile-views.svg"  />
+  <img src="https://img.shields.io/github/stars/0xarchit?style=plastic&label=GitHub%20Stars&logo=github&logoColor=white&labelColor=0F172A&color=06B6D4"  />
+</div>
+
 ## <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Travel%20and%20places/Globe%20with%20Meridians.png" alt="Globe with Meridians" width="30" height="30" /> Socials:
 [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/0xarchit) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/0xarchit) [![Medium](https://img.shields.io/badge/Medium-12100E?logo=medium&logoColor=white)](https://medium.com/@0xarchit) [![Quora](https://img.shields.io/badge/Quora-%23B92B27.svg?logo=Quora&logoColor=white)](https://quora.com/profile/0xarchit) [![Reddit](https://img.shields.io/badge/Reddit-%23FF4500.svg?logo=Reddit&logoColor=white)](https://reddit.com/user/0xarchit) [![Stack Overflow](https://img.shields.io/badge/-Stackoverflow-FE7A16?logo=stack-overflow&logoColor=white)](https://stackoverflow.com/users/28119660) [![X](https://img.shields.io/badge/X-black.svg?logo=X&logoColor=white)](https://x.com/0xarchit) [![Codepen](https://img.shields.io/badge/Codepen-000000?style=for-the-badge&logo=codepen&logoColor=white)](https://codepen.io/0xarchit) [![Hyperskill](https://img.shields.io/badge/Hyperskill-000000?style=for-the-badge&logo=hyperskill&logoColor=white)](https://hyperskill.org/profile/617592135)
 
@@ -51,10 +56,6 @@
 ###
 </div>
 <br clear="both">
-
-<div align="center">
-  <img src="https://view.0xarc.workers.dev/github-profile-views.svg"  />
-</div>
 
 ###
 
