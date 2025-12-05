@@ -187,11 +187,11 @@
     </td>
     <td align="center">
       <a href="https://github.com/0xarchit/github-profile-analyzer"><img src="https://img.shields.io/badge/GitHub-000000?style=flat&logo=github&logoColor=white" /></a>
-      <a href="https://git.0xcloud.workers.dev"><img src="https://img.shields.io/badge/Live-000000?style=flat&logo=google-chrome&logoColor=white" /></a>
+      <a href="https://github.0xarchit.is-a.dev"><img src="https://img.shields.io/badge/Live-000000?style=flat&logo=google-chrome&logoColor=white" /></a>
     </td>
     <td align="center">
       <a href="https://github.com/0xarchit/duckduckgo-webscraper"><img src="https://img.shields.io/badge/GitHub-000000?style=flat&logo=github&logoColor=white" /></a>
-      <a href="https://duckduckgo-webscraper.onrender.com"><img src="https://img.shields.io/badge/Live-000000?style=flat&logo=google-chrome&logoColor=white" /></a>
+      <a href="https://webscraper.0xarchit.is-a.dev"><img src="https://img.shields.io/badge/Live-000000?style=flat&logo=google-chrome&logoColor=white" /></a>
     </td>
   </tr>
 </table>
@@ -218,7 +218,7 @@
     </td>
     <td align="center">
       <a href="https://github.com/0xarchit/LearnTrack"><img src="https://img.shields.io/badge/GitHub-000000?style=flat&logo=github&logoColor=white" /></a>
-      <a href="https://learntrack.pages.dev"><img src="https://img.shields.io/badge/Live-000000?style=flat&logo=google-chrome&logoColor=white" /></a>
+      <a href="https://learntrack.0xarchit.is-a.dev"><img src="https://img.shields.io/badge/Live-000000?style=flat&logo=google-chrome&logoColor=white" /></a>
     </td>
   </tr>
 </table>
@@ -261,7 +261,7 @@
   </div>
   <div align="center">
     <img src="https://git-streak.0xarchit.is-a.dev?user=0xarchit&mode=weekly&background=000000&ring=ffffff&fire=ffffff&currStreakLabel=ffffff&currStreakNum=ffffff&sideNums=ffffff&sideLabels=ffffff&dates=ffffff&hide_border=true" height="150" alt="streak graph" />
-    <img src="https://github-profile-trophy.vercel.app/?username=0xarchit&theme=dark&column=-1&row=1&margin-w=8&margin-h=8&no-bg=true" height="150" alt="trophy graph" />
+    <img src="https://git-trophy.0xarchit.is-a.dev/?username=0xarchit&theme=dark&column=-1&row=1&margin-w=8&margin-h=8&no-bg=true" height="150" alt="trophy graph" />
   </div>
   <div align="center">
     <img src="https://git-activity.0xarchit.is-a.dev/graph?username=0xarchit&radius=16&bg_color=000000&color=ffffff&line=ffffff&point=ffffff&area=true&hide_border=true" height="300" alt="activity-graph graph" />
