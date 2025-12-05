@@ -214,7 +214,7 @@
     </td>
     <td align="center">
       <a href="https://github.com/0xarchit/ArcArcGo"><img src="https://img.shields.io/badge/GitHub-000000?style=flat&logo=github&logoColor=white" /></a>
-      <a href="https://arcarcgo.0xarc.workers.dev"><img src="https://img.shields.io/badge/Live-000000?style=flat&logo=google-chrome&logoColor=white" /></a>
+      <a href="https://arcarcgo.0xarchit.is-a.dev"><img src="https://img.shields.io/badge/Live-000000?style=flat&logo=google-chrome&logoColor=white" /></a>
     </td>
     <td align="center">
       <a href="https://github.com/0xarchit/LearnTrack"><img src="https://img.shields.io/badge/GitHub-000000?style=flat&logo=github&logoColor=white" /></a>
