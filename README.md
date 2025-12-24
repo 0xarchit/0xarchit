@@ -257,7 +257,7 @@
   <h3>📊 GitHub Stats</h3>
   <div align="center">
     <img src="https://git-stats.0xarchit.is-a.dev/api?username=0xarchit&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&bg_color=000000&title_color=ffffff&text_color=ffffff&icon_color=ffffff&border_color=ffffff&hide_border=true" height="150" alt="stats graph" />
-    <img src="https://git-stats.0xarchit.is-a.dev/api/top-langs?username=0xarchit&layout=compact&card_width=320&langs_count=6&bg_color=000000&title_color=ffffff&text_color=ffffff&hide_border=true" height="150" alt="languages graph" />
+    <img src="https://git-stats.0xarchit.is-a.dev/api/top-langs?username=0xarchit&layout=compact&card_width=320&langs_count=8&bg_color=000000&title_color=ffffff&text_color=ffffff&hide_border=true" height="150" alt="languages graph" />
   </div>
   <div align="center">
     <img src="https://git-streak.0xarchit.is-a.dev?user=0xarchit&mode=weekly&background=000000&ring=ffffff&fire=ffffff&currStreakLabel=ffffff&currStreakNum=ffffff&sideNums=ffffff&sideLabels=ffffff&dates=ffffff&hide_border=true" height="150" alt="streak graph" />
