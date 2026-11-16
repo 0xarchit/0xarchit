@@ -23,7 +23,7 @@
     <img src="https://git-streak.0xarchit.is-a.dev?user=0xarchit&mode=weekly&background=000000&ring=ffffff&fire=ffffff&currStreakLabel=ffffff&currStreakNum=ffffff&sideNums=ffffff&sideLabels=ffffff&dates=ffffff&hide_border=true" height="150" alt="streak graph" />
   </div>
   <div align="center">
-    <img src="https://git-activity.0xarchit.is-a.dev/graph?username=0xarchit&radius=16&bg_color=000000&color=ffffff&line=ffffff&point=ffffff&area=true&hide_border=true" height="300" alt="activity-graph graph" />
+    <img src="https://github-readme-activity-graph.ashutosh-dwivedi0710.workers.dev/graph?username=0xarchit&radius=16&bg_color=000000&color=ffffff&line=ffffff&point=ffffff&area=true&hide_border=true" height="300" alt="activity-graph graph" />
   </div>
 
   <br/>
